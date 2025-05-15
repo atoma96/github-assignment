@@ -1,3 +1,4 @@
 "Hello world" 
 "Second line"
 "John Doe" 
+This homework belongs to Tamás Anschau
