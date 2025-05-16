@@ -2,3 +2,6 @@
 "Second line"
 "John Doe" 
 This homework belongs to Tamás Anschau
+
+Hi!
+Everything is fine, good job, thank you for your work! :) 
